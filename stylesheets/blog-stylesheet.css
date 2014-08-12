@@ -1,0 +1,154 @@
+img{ 
+    max-width: 35%;
+    border: 1px solid black;
+}
+h1{
+    font-family: Impact;
+    float: right;
+    margin-right: 20px;
+}
+#head_box{
+    background-color: black;
+    height: 30px;
+    margin-top: 10px; 
+    padding-top: 3px;
+    padding-left: 38px;
+    padding-bottom: -5px;
+    color: white;
+    word-spacing: 55px;
+    font-family: Impact;
+    text-align: left;
+}
+#head_sub{
+    float: right;
+    font-size: 12px;
+    margin-top: -70px;
+    margin-bottom: 30px;
+    margin-right: 30px;
+    font-family: cursive;   
+}
+#me{
+    font-size: 15px;
+    font-weight: bold;    
+}
+#you{
+    font-weight: bold;
+}
+.menu{
+    float:left;
+    background-color: grey;
+    height: 462px;
+    width: 100px;
+    margin-top: 10px;
+    font-size: 12px;    
+}
+#header_bar{
+    border: solid 2px black;
+    height: 30px;
+    width: 96px;
+    margin-top: 20px;
+    font-size: 12px;
+    text-align: center;
+    font-family: Impact;
+}
+.menu_bar{
+    margin-top: 5px;
+    text-align: center;
+    height: 100%;
+}
+.unit{
+    text-decoration: underline;
+    font-size: 14px;
+}
+.phase{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 2px;
+    font-family: Impact;    
+}
+
+.weeks{
+    margin-top:2px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: red;
+}
+#tech_bar{
+    border: solid 1px black;
+    height: 30px;
+    width: 130px;
+    margin-top: -34px;
+    font-size: 10px;
+    text-align: center;
+    font-family: Helvetica;
+    float: left;
+    margin-left: 13px;    
+}
+#culture_bar{
+    border: solid 1px black;
+    height: 30px;
+    width: 130px;
+    margin-top: -34px;
+    font-size: 11px;
+    text-align: center;
+    font-family: cursive;
+    float: right;
+    margin-right:10px;
+}
+#head_text{
+    margin-top: 7px;
+}
+#head_text2{
+    margin-top: 5px
+}
+#tech_text{
+    background-color: #ffebd6;
+    height: 462px;
+    width: 135px;
+    margin-top: -5px;
+    font-size: 13px;
+    text-align: left;
+    font-family: Helvetica;
+    float: left;
+    margin-left: 13px; 
+    overflow: scroll;
+}
+#culture_text{
+    background-color: #ffebd6;
+    height: 462px;
+    width: 135px;
+    margin-top: -5px;
+    font-size: 13px;
+    text-align: left;
+    font-family: cursive;
+    float: right;
+    margin-right:10px;
+    overflow: scroll;
+}
+.text_pos_blog{
+    margin: 1px 1px 1px 1px;
+    font-size:11px;    
+}
+footer{
+    background-color: black;
+    height: 30px; 
+    margin-top: 490px;
+    font-size: 10px;
+} 
+#footer{
+    margin-left: 5px;
+    margin-top: 495px;
+    padding-right:50px;
+    word-spacing: 5px;
+}
+#foot_words{
+    text-align: right;
+    color: white;
+    margin-top: -10px;
+    margin-right: 10px;
+    
+}

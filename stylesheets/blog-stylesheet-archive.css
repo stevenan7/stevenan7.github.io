@@ -1,0 +1,63 @@
+ body{
+    background-image: url(file:///Users/Steven/Desktop/stevenan7.github.io/chicagoskyline.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 14em;
+    background-position: fixed;
+}
+
+#title{
+    font-size: 540%;
+    font-family: Century Gothic;
+    top: 30%;
+    left: 30%;
+    color: white;
+
+}
+#subtitles{
+    margin-left: 18em;
+    top: 55%;
+    left: 38%;
+    font-size: 150%;
+    word-spacing: 120%;
+    color: white;
+    font-family: cursive;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+    word-spacing: 1em;
+}
+a:hover{
+    color: #660066;
+}
+a:visited{
+    color: #660066;
+}
+.menu{
+    background-color: grey;
+    height: 100%;
+    width: 7.9em;
+    margin-top: 7em;
+    font-size: 12px; 
+    float: left;
+
+}
+#tech_text{
+    background-color: white;
+    width: 77%;
+    margin-top: 6em; 
+    font-size: 1.1em;
+    margin-left: 8em;
+    font-family: Helvetica;
+    overflow: scroll;
+    position: relative;
+    text-align: left;
+    border-radius: 1em;
+    border-color: black;
+}
+.HOME{
+    text-align: center;
+    margin-left: 1.8px;
+}
+
+
